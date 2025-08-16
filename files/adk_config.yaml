@@ -1,0 +1,12 @@
+# ADK Configuration
+app_name: chatbot
+description: "A chatbot using Google ADK with Vertex AI RAG"
+
+# Agent configuration
+agents:
+  - name: root_agent
+    type: yaml
+    config_file: root_agent.yaml
+
+# Environment variables
+env_file: .env

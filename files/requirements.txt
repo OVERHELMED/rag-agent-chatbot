@@ -1,0 +1,26 @@
+# Requirements for CHATBOT project
+# Core dependencies for Google ADK and Vertex AI
+
+# Google ADK (Agent Development Kit) for building AI agents
+google-adk
+
+# Vertex AI for RAG (Retrieval-Augmented Generation) functionality
+google-cloud-aiplatform
+
+# Environment variable management
+python-dotenv
+
+# Additional dependencies that might be needed for the project
+# Uncomment if you need these specific versions or additional packages
+
+# For better type hints and development
+# typing-extensions>=4.0.0
+
+# For logging and debugging
+# logging
+
+# For JSON handling (if needed)
+# json
+
+# For OS operations (built-in, but listed for clarity)
+# os
